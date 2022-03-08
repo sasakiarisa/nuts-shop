@@ -1,6 +1,6 @@
 <?php
   include_once '../header.php'; 
-require 'connect.php';
+   require 'connect.php';
 ?>
 
 <div class="row">
